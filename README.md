@@ -1,9 +1,9 @@
 <img src="https://github.com/Benjamin-Meyer-Dev/Benjamin-Meyer-Dev/blob/main/Contact Banner.png" alt="Contact Banner" />
 
-<h2><img src="https://github.com/Benjamin-Meyer-Dev/Benjamin-Meyer-Dev/blob/main/Background.png" alt="Background Image" width="80" />My Background</h2>
+<h2><img src="https://github.com/Benjamin-Meyer-Dev/Benjamin-Meyer-Dev/blob/main/Images/Background.png" alt="Background Image" width="80" />My Background</h2>
 <p>I’m a software developer with over a year of experience working on full-stack development, cloud services, and database management. I enjoy building scalable, secure, and efficient solutions. I’m passionate about solving problems and focusing on user needs.</p>
 
-<h2><img src="https://github.com/Benjamin-Meyer-Dev/Benjamin-Meyer-Dev/blob/main/Tools.png" atl="Tools Image" width="80" />My Toolbox</h2>
+<h2><img src="https://github.com/Benjamin-Meyer-Dev/Benjamin-Meyer-Dev/blob/main/Images/Tools.png" atl="Tools Image" width="80" />My Toolbox</h2>
 <a href="https://www.anaconda.com" target="_blank"><img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" /></a>
 <a href="https://www.iso.org/standard/74528.html" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs" alt="C#" /></a>
