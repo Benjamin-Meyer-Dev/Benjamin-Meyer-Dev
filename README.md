@@ -1,9 +1,9 @@
 <img src="https://github.com/Benjamin-Meyer-Dev/Benjamin-Meyer-Dev/blob/main/Contact Banner.png" alt="Contact Banner" />
 
-<h2><img src="https://github.com/Benjamin-Meyer-Dev/Benjamin-Meyer-Dev/blob/main/Images/Background.png" alt="Background Image" width="80" />My Background</h2>
+<h2>👨‍💻 My Background</h2>
 <p>I’m a software developer with over a year of experience working on full-stack development, cloud services, and database management. I enjoy building scalable, secure, and efficient solutions. I’m passionate about solving problems and focusing on user needs.</p>
 
-<h2><img src="https://github.com/Benjamin-Meyer-Dev/Benjamin-Meyer-Dev/blob/main/Images/Tools.png" atl="Tools Image" width="80" />My Toolbox</h2>
+<h2>🛠️ My Toolbox</h2>
 <a href="https://www.anaconda.com" target="_blank"><img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" /></a>
 <a href="https://www.iso.org/standard/74528.html" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs" alt="C#" /></a>
@@ -28,7 +28,7 @@
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a>
 <a href="https://vuejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" /></a>
 
-<h2><img src="https://github.com/Benjamin-Meyer-Dev/Benjamin-Meyer-Dev/blob/main/Studying.png" alt="Studying Image" width="80" />Currently Studying</h2>
+<h2>📚 Currently Studying</h2>
 <a href="https://angular.io/" target="_blank"><img src="https://skillicons.dev/icons?i=angular" alt="Angular" /></a>
 <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></a>
 <a href="https://azure.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=azure" alt="Azure" /></a>
@@ -38,5 +38,8 @@
 <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
 <a href="https://threejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" /></a>
 
-<h2><img src="https://github.com/Benjamin-Meyer-Dev/Benjamin-Meyer-Dev/blob/main/Connect.png" alt="Connect Image" width="80" />Connect With Me</h2>
+<h2>📫 Connect With Me</h2>
 <a href="https://www.linkedin.com/in/benjamin-meyer-33618833a" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+
+<h2>📄 Download My Resume</h2>
+[Download Resume](https://github.com/Benjamin-Meyer-Dev/Benjamin-Meyer-Dev/raw/main/Resume/Benjamin_Meyer_Resume.pdf)
