@@ -1,4 +1,4 @@
-<img src="https://github.com/Benjamin-Meyer-Dev/Benjamin-Meyer-Dev/blob/main/Contact Banner.png" alt="Contact Banner" />
+<img src="https://github.com/Benjamin-Meyer-Dev/Benjamin-Meyer-Dev/blob/main/Images/Contact Banner.png" alt="Contact Banner" />
 
 <h2>👨‍💻 My Background</h2>
 <p>I’m a software developer with over a year of experience working on full-stack development, cloud services, and database management. I enjoy building scalable, secure, and efficient solutions. I’m passionate about solving problems and focusing on user needs.</p>
@@ -42,4 +42,4 @@
 <a href="https://www.linkedin.com/in/benjamin-meyer-33618833a" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
 
 <h2>📄 Download My Resume</h2>
-[Download Resume](https://github.com/Benjamin-Meyer-Dev/Benjamin-Meyer-Dev/raw/main/Resume/Benjamin_Meyer_Resume.pdf)
+https://github.com/Benjamin-Meyer-Dev/Benjamin-Meyer-Dev/raw/main/Files/Benjamin%20Meyer%20-%20Resume.pdf
