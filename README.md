@@ -1,13 +1,7 @@
-<h2>📸 My Picture</h2>
-<img src="https://github.com/Benjamin-Meyer-Dev/Benjamin-Meyer-Dev/blob/main/path-to-your-image.jpg" alt="My Image" width="300" />
-
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{Benjamin-Meyer-Dev}/count.svg" alt="Visitor's Count" />
-</div>
+<img src="https://github.com/Benjamin-Meyer-Dev/Benjamin-Meyer-Dev/blob/main/Contact Banner.png" alt="Contact Banner" />
 
 <h2>👨‍💻 My Background</h2>
-<p>Software developer with over one year of experience in full-stack development, cloud services, and database management. Skilled in building scalable, secure, and efficient solutions while aligning with industry best practices. Strong problem-solving abilities with a focus on user needs and system performance.</p>
+<p>I’m a software developer with over a year of experience working on full-stack development, cloud services, and database management. I enjoy building scalable, secure, and efficient solutions. I’m passionate about solving problems and focusing on user needs.</p>
 
 <h2>🛠️ My Toolbox</h2>
 <a href="https://www.anaconda.com" target="_blank"><img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" /></a>
