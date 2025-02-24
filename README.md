@@ -9,6 +9,6 @@
   <img src="https://skillicons.dev/icons?i=angular,aws,azure,docker,gcp,mongodb,nodejs,threejs" />
 </a>
 <h2>📫 Connect With Me</h2>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://www.linkedin.com/in/benjamin-meyer-33618833a" target="_blank" rel="noopener noreferrer>
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
