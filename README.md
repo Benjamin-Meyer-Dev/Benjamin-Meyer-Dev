@@ -1,9 +1,16 @@
+<h2>📸 My Picture</h2>
+<img src="https://github.com/Benjamin-Meyer-Dev/Benjamin-Meyer-Dev/blob/main/path-to-your-image.jpg" alt="My Image" width="300" />
+
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{Benjamin-Meyer-Dev}/count.svg" alt="Visitor's Count" />
+</div>
+
 <h2>👨‍💻 My Background</h2>
 <p>Software developer with over one year of experience in full-stack development, cloud services, and database management. Skilled in building scalable, secure, and efficient solutions while aligning with industry best practices. Strong problem-solving abilities with a focus on user needs and system performance.</p>
 
 <h2>🛠️ My Toolbox</h2>
-<p>Technologies I work with:</p>
-<a href="https://www.anaconda.com/" target="_blank"><img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" /></a>
+<a href="https://www.anaconda.com" target="_blank"><img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" /></a>
 <a href="https://www.iso.org/standard/74528.html" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs" alt="C#" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
@@ -28,7 +35,6 @@
 <a href="https://vuejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" /></a>
 
 <h2>📚 Currently Studying</h2>
-<p>Technologies I'm currently learning:</p>
 <a href="https://angular.io/" target="_blank"><img src="https://skillicons.dev/icons?i=angular" alt="Angular" /></a>
 <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></a>
 <a href="https://azure.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=azure" alt="Azure" /></a>
@@ -39,6 +45,4 @@
 <a href="https://threejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" /></a>
 
 <h2>📫 Connect With Me</h2>
-<a href="https://www.linkedin.com/in/benjamin-meyer-33618833a" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
+<a href="https://www.linkedin.com/in/benjamin-meyer-33618833a" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
